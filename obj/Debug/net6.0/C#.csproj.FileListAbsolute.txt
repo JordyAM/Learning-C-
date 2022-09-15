@@ -1,0 +1,15 @@
+/home/jmclean/sei/sandbox/C#/bin/Debug/net6.0/C#
+/home/jmclean/sei/sandbox/C#/bin/Debug/net6.0/C#.deps.json
+/home/jmclean/sei/sandbox/C#/bin/Debug/net6.0/C#.runtimeconfig.json
+/home/jmclean/sei/sandbox/C#/bin/Debug/net6.0/C#.dll
+/home/jmclean/sei/sandbox/C#/bin/Debug/net6.0/C#.pdb
+/home/jmclean/sei/sandbox/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/home/jmclean/sei/sandbox/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmclean/sei/sandbox/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/home/jmclean/sei/sandbox/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/home/jmclean/sei/sandbox/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+/home/jmclean/sei/sandbox/C#/obj/Debug/net6.0/C#.dll
+/home/jmclean/sei/sandbox/C#/obj/Debug/net6.0/refint/C#.dll
+/home/jmclean/sei/sandbox/C#/obj/Debug/net6.0/C#.pdb
+/home/jmclean/sei/sandbox/C#/obj/Debug/net6.0/C#.genruntimeconfig.cache
+/home/jmclean/sei/sandbox/C#/obj/Debug/net6.0/ref/C#.dll
