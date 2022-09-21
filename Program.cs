@@ -8,22 +8,27 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
-    class Program
+    class Calc
     {
+        static int Add (int x, int y)
+        {
+            return x + y;
+        }
+        static int Subtract(int x, int y)
+        {
+            return x - y;
+        }
+        static int Multiply(int x, int y)
+        {
+            return x * y;
+        }
+        static int Divide(int x, int y)
+        {
+            return x / y;
+        }
         static void Main(string[] args)
     {
-        // string message = "Hello World!!";
-        // float temp = 89.7; 
-        // double gpa = 3.3;
-        // decimal usd = 3.50 ; // from least accurate to most accurate for decimal ints
-        string phrase = "Giraffe Academy";
-        Console.WriteLine(phrase.Substring(8, 3));
-        // Console.WriteLine("Who are You?"); 
-        // var name = Console.ReadLine(); 
-        // var currentDate = DateTime.Now;
-        // Console.WriteLine($"\nHello, {name}, on {currentDate:d} at {currentDate:t}!");
-        // Console.Write($"\nPress any key to exit...");
-        // Console.ReadKey(true);
+       Console.WriteLine(Divide(15,3));
     }
     }
 }

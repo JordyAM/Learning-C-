@@ -30,3 +30,5 @@
 /home/jmclean/sei/sandbox/C#/mongoDBtest/obj/Debug/net6.0/mongoDBtest.pdb
 /home/jmclean/sei/sandbox/C#/mongoDBtest/obj/Debug/net6.0/mongoDBtest.genruntimeconfig.cache
 /home/jmclean/sei/sandbox/C#/mongoDBtest/obj/Debug/net6.0/ref/mongoDBtest.dll
+/home/jmclean/sei/sandbox/C#/mongoDBtest/bin/Debug/net6.0/DotNetEnv.dll
+/home/jmclean/sei/sandbox/C#/mongoDBtest/bin/Debug/net6.0/Sprache.dll

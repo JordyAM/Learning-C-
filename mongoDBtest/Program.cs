@@ -8,7 +8,10 @@ namespace mongoTest
     {
         static void Main(string[] args)
         {
-            MongoClient dbClient = new MongoClient("mongodb+srv://dbuser:9XWrtOYIy3vm9deS@cluster0.nztui.mongodb.net/?retryWrites=true&w=majority");
+            DotNetEnv.Env.Load();
+            var mongoCluster = Environment.GetEnvironmentVariable("DATABASE_URL");
+
+            MongoClient dbClient = new MongoClient($"{mongoCluster}");
 
             var dbList = dbClient.ListDatabases().ToList();
 
