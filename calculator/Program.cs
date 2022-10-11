@@ -10,25 +10,29 @@ namespace HelloWorld
 {
     class Calc
     {
-        static int Add (int x, int y)
+        static double Add (double x, double y)
         {
             return x + y;
         }
-        static int Subtract(int x, int y)
+        static double Subtract(double x, double y)
         {
             return x - y;
         }
-        static int Multiply(int x, int y)
+        static double Multiply(double x, double y)
         {
             return x * y;
         }
-        static int Divide(int x, int y)
+        static double Divide(double x, double y)
         {
             return x / y;
         }
         static void Main(string[] args)
     {
-       Console.WriteLine(Divide(15,3));
+        Console.Write("Enter a number: ");
+        double num1 = Convert.ToDouble(Console.ReadLine());
+        Console.Write("Enter another number: ");
+        double num2 = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine(Divide(num1,num2));
     }
     }
 }
